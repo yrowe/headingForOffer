@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/02Singleton/02Singleton.iml" filepath="$PROJECT_DIR$/02Singleton/02Singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04FindNumIn2dArray/04FindNumIn2dArray.iml" filepath="$PROJECT_DIR$/04FindNumIn2dArray/04FindNumIn2dArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06PrintLinkedListReversely/06PrintLinkedListReversely.iml" filepath="$PROJECT_DIR$/06PrintLinkedListReversely/06PrintLinkedListReversely.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07RebuildBinaryTree/07RebuildBinaryTree.iml" filepath="$PROJECT_DIR$/07RebuildBinaryTree/07RebuildBinaryTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09StackAndQueue/09StackAndQueue.iml" filepath="$PROJECT_DIR$/09StackAndQueue/09StackAndQueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dulicatedNumInArrays/dulicatedNumInArrays.iml" filepath="$PROJECT_DIR$/dulicatedNumInArrays/dulicatedNumInArrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/headingForOffer.iml" filepath="$PROJECT_DIR$/.idea/headingForOffer.iml" />
+    </modules>
+  </component>
+</project>
