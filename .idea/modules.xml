@@ -7,6 +7,8 @@
       <module fileurl="file://$PROJECT_DIR$/06PrintLinkedListReversely/06PrintLinkedListReversely.iml" filepath="$PROJECT_DIR$/06PrintLinkedListReversely/06PrintLinkedListReversely.iml" />
       <module fileurl="file://$PROJECT_DIR$/07RebuildBinaryTree/07RebuildBinaryTree.iml" filepath="$PROJECT_DIR$/07RebuildBinaryTree/07RebuildBinaryTree.iml" />
       <module fileurl="file://$PROJECT_DIR$/09StackAndQueue/09StackAndQueue.iml" filepath="$PROJECT_DIR$/09StackAndQueue/09StackAndQueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10Fibonacci/10Fibonacci.iml" filepath="$PROJECT_DIR$/10Fibonacci/10Fibonacci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11FindMinInRotatedArray/11FindMinInRotatedArray.iml" filepath="$PROJECT_DIR$/11FindMinInRotatedArray/11FindMinInRotatedArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/dulicatedNumInArrays/dulicatedNumInArrays.iml" filepath="$PROJECT_DIR$/dulicatedNumInArrays/dulicatedNumInArrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/headingForOffer.iml" filepath="$PROJECT_DIR$/.idea/headingForOffer.iml" />
     </modules>
