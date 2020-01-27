@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/09StackAndQueue/09StackAndQueue.iml" filepath="$PROJECT_DIR$/09StackAndQueue/09StackAndQueue.iml" />
       <module fileurl="file://$PROJECT_DIR$/10Fibonacci/10Fibonacci.iml" filepath="$PROJECT_DIR$/10Fibonacci/10Fibonacci.iml" />
       <module fileurl="file://$PROJECT_DIR$/11FindMinInRotatedArray/11FindMinInRotatedArray.iml" filepath="$PROJECT_DIR$/11FindMinInRotatedArray/11FindMinInRotatedArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12PathInMatrix/12PathInMatrix.iml" filepath="$PROJECT_DIR$/12PathInMatrix/12PathInMatrix.iml" />
       <module fileurl="file://$PROJECT_DIR$/dulicatedNumInArrays/dulicatedNumInArrays.iml" filepath="$PROJECT_DIR$/dulicatedNumInArrays/dulicatedNumInArrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/headingForOffer.iml" filepath="$PROJECT_DIR$/.idea/headingForOffer.iml" />
     </modules>
